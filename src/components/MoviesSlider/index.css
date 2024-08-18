@@ -1,0 +1,12 @@
+.movies-slider {
+  margin: 0;
+}
+
+.slick-slide {
+  margin: 0 10px;
+}
+
+.slick-list {
+  padding: 0 16px;
+  margin: 0; /* Added some padding to the slider container */
+}

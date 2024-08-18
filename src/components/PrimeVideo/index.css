@@ -1,0 +1,21 @@
+.prime-video-container {
+  background-color: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+}
+
+.prime-video-banner {
+  width: 100%;
+  height: 300px;
+}
+
+.movies-section {
+  margin: 0 20px;
+  padding: 0 20px;
+}
+
+.genre-heading {
+  font-family: Roboto;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
